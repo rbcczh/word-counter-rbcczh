@@ -16,7 +16,7 @@ function countWords() {
   const words = str.split(' ');
   const count = words.length;
   printData(count, textCount);
-}
+} 
 
 function findWords() {
   // put your local variable for the empty array here
